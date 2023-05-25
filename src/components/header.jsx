@@ -21,7 +21,7 @@ export default function Header() {
           </div>
 
           <div className="home__img">
-            <img src="assets/tiburon.png" alt="Tiburon PNG" />
+            <img src="assets/tiburon.webp" alt="Tiburon PNG" />
           </div>
 
           <div className="home__data">

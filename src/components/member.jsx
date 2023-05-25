@@ -14,7 +14,7 @@ export default function Member({
       <div className="member__icon">
         <img
           className="member__avatar"
-          src={`assets/${avatar || "avatar"}.webp`}
+          src={`assets/${avatar || "avatar-default"}.webp`}
           alt="Member avatar"
           loading="lazy"
         />

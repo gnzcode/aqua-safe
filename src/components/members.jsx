@@ -59,31 +59,32 @@ export default function Members() {
         </button>
         <div className="members__sliders" ref={sliders}>
           <Member
-            name="Alexis González 1"
+            name="Alexis González"
             avatar="gnzcode"
             job="Desarrollador web"
             github="https://github.com/gnzcode"
             size={size}
+            instagram="https://www.instagram.com/gnzcode/"
           />
           <Member
-            name="Alexis González 2"
-            avatar="gnzcode"
-            job="Desarrollador web"
+            name="Josseline Jiménez"
+            // avatar="josseline"
+            job="Trabajo/puesto"
             github="https://github.com/gnzcode"
             size={size}
           />
           <Member
-            name="Alexis González 3"
-            avatar="gnzcode"
-            job="Desarrollador web"
-            github="https://github.com/gnzcode"
+            name="Therion Dávila"
+            // avatar="therion"
+            job="Trabajo/puesto"
+            github="https://www.instagram.com/__.thxrion_hill.__/"
             size={size}
           />
           <Member
-            name="Alexis González 4"
-            avatar="gnzcode"
-            job="Desarrollador web"
-            github="https://github.com/gnzcode"
+            name="Alin Guerrero"
+            // avatar="paty"
+            job="Trabajo/puesto"
+            github="https://www.instagram.com/paty_ggh/"
             size={size}
           />
         </div>

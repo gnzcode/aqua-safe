@@ -10,7 +10,7 @@ export default function About() {
         <div className="about__data">
           <img
             loading="lazy"
-            src="assets/playa.jpg"
+            src="assets/playa.webp"
             alt="About IMG"
             className="about__img"
           />
