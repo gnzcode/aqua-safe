@@ -70,21 +70,21 @@ export default function Members() {
             name="Josseline Jiménez"
             // avatar="josseline"
             job="Trabajo/puesto"
-            github="https://github.com/gnzcode"
+            instagram="https://www.instagram.com/josseline_jimenez_/"
             size={size}
           />
           <Member
             name="Therion Dávila"
             // avatar="therion"
             job="Trabajo/puesto"
-            github="https://www.instagram.com/__.thxrion_hill.__/"
+            instagram="https://www.instagram.com/__.thxrion_hill.__/"
             size={size}
           />
           <Member
             name="Alin Guerrero"
             // avatar="paty"
             job="Trabajo/puesto"
-            github="https://www.instagram.com/paty_ggh/"
+            instagram="https://www.instagram.com/paty_ggh/"
             size={size}
           />
         </div>
