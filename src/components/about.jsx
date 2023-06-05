@@ -26,11 +26,11 @@ export default function About() {
         <div className="about__cards grid">
           <AboutCard
             title="Misión"
-            description="Nuestro trabajo se enfoca en la conservación de la biodiversidad marina y en lograr un uso sostenible del medio marino. Para ello, promovemos un cambio en la relación de la sociedad con el mar. Además, brindamos orientación a las empresas para concienciar a su personal sobre la optimización del uso de los recursos naturales."
+            description="Nuestro trabajo se enfoca en la conservación de la biodiversidad marina y en lograr un uso sostenible del medio marino. Para ello, promovemos un cambio en la relación de la sociedad con el mar. Además, brindamos orientación a las empresas para concientizar a su personal sobre la optimización del uso de los recursos naturales."
           />
           <AboutCard
             title="Visión"
-            description="Aqua Safe busca establecerse como una entidad de referencia en la conservación marina, tanto a nivel nacional como internacional, con un nivel de influencia suficiente para intervenir en procesos de decisión relevantes para la protección del medio marino. "
+            description="Aqua Safe busca establecerse como una entidad de referencia en la conservación marina, tanto a nivel nacional como internacional, con un nivel de influencia suficiente para intervenir un proceso en procesos de decisión relevantes para la protección del medio marino. "
           />
         </div>
       </div>

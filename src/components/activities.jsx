@@ -3,7 +3,7 @@ import ActivityCard from "./activity-card";
 export default function Activities() {
   return (
     <section className="activities section" id="activities">
-      <h2 className="section__title">Servicios</h2>
+      <h2 className="section__title">Actividades</h2>
       <span className="section__subtitle">¿Qué hacemos?</span>
 
       <div className="activities__container container grid">
